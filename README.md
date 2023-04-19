@@ -234,17 +234,17 @@
 
 ### リリース済みのアプリケーション
 
-- [Laravel](https://cndb.jp)  
+- Laravel (https://cndb.jp)  
 環境省による温室効果ガス排出量の算定と報告をもとに、日系各企業の炭素排出量のデータを表示したデータベースサイトです。    
 
-- [Laravel](https://akiwaku.me)  
-予約の空き枠を簡単に画像化し、SNSやLINE/メール等で顧客に案内できるサービスです。。  
+- Laravel (https://akiwaku.me)  
+予約の空き枠を簡単に画像化し、SNSやLINE/メール等で顧客に案内できるサービスです。
 
-- [Wordpress](https://okusuriichiba.shop)  
+- Wordpress (https://okusuriichiba.shop)  
 海外医薬品・サプリを会員登録不要で手軽にネット通販サイトです。
 
-- [CakePHP](https://qr-time.com)  
+- CakePHP (https://qr-time.com)  
 勤務管理システムのサイトです。
 
-- [Laravel](http://monitor-test.glotechjp.com/login)  
+- Laravel (http://monitor-test.glotechjp.com/login)  
 サイトやサーバの状態を監視するサイトです。
