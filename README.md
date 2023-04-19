@@ -36,28 +36,28 @@
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2022.03.15 | [Microsoft Azure Fundamentals(AZ900)]|
+| 2022.03.17 | [Microsoft Azure Fundamentals(AZ900)]|
 
 ### Google Cloud認定資格
 
 | 認定日     | 認定資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2021.03.15 | [Cloud Digital Leader] |
+| 2021.08.05 | [Cloud Digital Leader] |
 
 ### AWS認定資格
 
 | 認定日     | AWS認定資格名                                    |
 | :--------- | :-------------------------------------------- |
 | 2020.03.15 | [AWS Certified Solutions Architect – Professional] |
-| 2018.03.15 | [AWS Certified Solutions Architect - Associate] |
+| 2018.07.10 | [AWS Certified Solutions Architect - Associate] |
 
 ### その他の認定資格
 
 | 認定日     | 取得資格名                                    |
 | :--------- | :-------------------------------------------- |
-| 2019.01.15 | LinuC レベル1 102 試験                        |
+| 2019.01.20 | LinuC レベル1 102 試験                        |
 | 2018.09.15 | LinuC レベル1 101 試験                        |
-| 2009.03.15 | Japanese Language N1                          |
+| 2009.03.25 | Japanese Language N1                          |
 
 ### 受賞歴
 
